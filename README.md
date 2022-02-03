@@ -13,7 +13,7 @@ You’ll also gain experience in an essential data science skill — exploratory
 
 
 
-||🎯 Project Tasks|
+||🎯 Project Outline|
 |--|--|
 |1.| Loading your friend's data into a dictionary|
 |2.| Creating a DataFrame from a dictionary|
