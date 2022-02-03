@@ -9,7 +9,11 @@ In this project, you’ll apply the skills you learned in [Introduction to Pytho
 
 You’ll also gain experience in an essential data science skill — exploratory data analysis. This will allow you to perform critical tasks such as manipulating raw data and drawing conclusions from plots you create of the data. 
 
---------
+![netflix_movies](https://user-images.githubusercontent.com/84027648/152314134-44bef2de-2f15-4b57-bb88-2adb9b207a10.png)
+
+
+------
+
 
 
 
